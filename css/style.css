@@ -3,17 +3,19 @@
   font-family: 'Lato', sans-serif;
 }
 
-body  {
+
+
+main  {
   background-color: #4C3B4D;
 }
-
+/* 
 #contenedor  {
   width: 960px;
   margin: 0 auto;
 }
 
 #columna-izq  {
-  width: 700px; /* 960-700 = 260 restantes*/
+  width: 700px; 
   float: left;
   background-color: aquamarine;
 }
@@ -45,4 +47,4 @@ body  {
   #columna-der  {
     width: 100%;
   }
-}
+} */
